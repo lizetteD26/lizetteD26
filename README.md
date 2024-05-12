@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h2 align="left">Hi 👋! My name is Lizette and I'm a from Binan Laguna, Philippines.</h2>
 
