@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lizetteD26/lizetteD26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2 align="left">Hi 👋! My name is Lizette and I'm a from Binan Laguna, Philippines.</h2>
 
 ###
