@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Lizette and I'm a from Binan Laguna, Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Lizette and I'm a programmer from Binan Laguna, Philippines.</h2>
 
 ###
 
