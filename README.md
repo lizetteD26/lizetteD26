@@ -1,5 +1,4 @@
-
-<h2 align="left">Hi 👋! My name is Lizette and I'm a programmer from Binan Laguna, Philippines.</h2>
+<h2 align="left">I'm a student who make a bunch of data into visuals.</h2>
 
 ###
 
@@ -26,5 +25,14 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
