@@ -1,4 +1,4 @@
-<h2 align="left">I'm a student who make a bunch of data into visuals.</h2>
+<h2 align="left">I'm a student who makes a bunch of data into visuals.</h2>
 
 ###
 
